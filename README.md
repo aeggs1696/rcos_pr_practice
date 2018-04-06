@@ -14,3 +14,5 @@ To do so:
 - Cameron Root - YACS
 - Ayushi Mishra - YACS
 - Austin Egri - Kuberlytics
+- Austin Egri - Shuttletracker
+
